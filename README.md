@@ -45,4 +45,4 @@
 <br/>
 
 ----
-Credit: [Bgstatic](https://github.com/Bgstatic)
+Template Credit: [Bgstatic](https://github.com/Bgstatic)

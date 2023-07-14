@@ -25,38 +25,13 @@
 
 ### Languages and Tools 🛠 
 
-![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-<br/>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,git,github,html,vscode,latex,md,pythorch,tensorflow&perline=5" />
+  </a>
+</p>
 ---
-
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Christian-F-Badillo&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Christian-F-Badillo&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Christian-F-Badillo&show_icons=true" />
-</picture>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-F-Badillo&layout=compact&langs_count=8)
-
-<br/>
-
 
 <br/>
 

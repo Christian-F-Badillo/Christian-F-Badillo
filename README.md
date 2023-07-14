@@ -2,12 +2,12 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science and Engineering Student  
+## I'm a Experimental Psychologist.
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- 👨‍💻 I’m currently finishing my BS in Psychology at UNAM 🎓.
+- 📚 I’m currently learning everything about Causality, Data Analytics, and Data Science to modelling cognitive processes 😅
+- 💪🏼 Future Goals: Learn more programming languages, more machine learning techniques 👨‍💻 - And Never Stop Learning!!!
+- ⚡ Fun fact: I love to play videogames and read polical novels 🕵🏽‍♂️.
 
 ---
 
@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/user/11153360645](https://open.spotify.com/track/21HfUACOv1lgBiYocruoW8?si=5f1c8c6d676a4417))
 
 ---
 

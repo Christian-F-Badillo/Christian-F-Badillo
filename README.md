@@ -27,8 +27,8 @@
     <img src="https://skillicons.dev/icons?i=py,r,git,github,html,vscode,latex,md,pytorch,tensorflow&perline=10" />
   </a>
 </p>
----
 
+---
 <br/>
 
   <h2 align="center"> Github Statistics 📈 </h2>

@@ -43,8 +43,7 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Christian-F-Badillo/Christian-F-Badillo&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
+      [![Anurhttps://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" />
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-F-Badillo/Christian-F-Badillo&theme=react&line_height=40&hide=css"/>
     </a>

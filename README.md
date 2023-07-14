@@ -11,7 +11,7 @@
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=[Christian-F-Badillo]Christian-F-Badillo&repo=Christian-F-Badillo&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src="https://api.visitorbadge.io/api/VisitorHit?user=Christian-F-Badillo&repo=github-visitors-badge&countColor=%237B1E7A"/>
 
 ### Contact with me 📝
 

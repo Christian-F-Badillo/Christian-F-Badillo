@@ -40,7 +40,8 @@
 <br/>
 
   <h2 align="center"> Github Statistics 📈 </h2>
-  
+<center> 
+<div> 
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Christian-F-Badillo&show_icons=true&theme=dark"
@@ -52,8 +53,13 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Christian-F-Badillo&show_icons=true" />
 </picture>
+</div>
+  
+<div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-F-Badillo&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+</div>
+</center>
 <br/>
 
 ---

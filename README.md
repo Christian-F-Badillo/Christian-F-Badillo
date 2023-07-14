@@ -15,12 +15,10 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
-
+<p align="center">
+[![@cris.fbh](https://img.icons8.com/fluency/48/000000/instagram-new.png "@cris.bfh")](https://www.instagram.com/cris.fbh/) [![@christian-badillo](https://img.icons8.com/fluency/48/000000/linkedin.png "@christian-badillo")](https://www.linkedin.com/in/christian-badillo/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@Christi91084601")](https://twitter.com/Christi91084601) [![@525522048610](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@525522048610")](tel:525522048610) [![@cris.badillo1408@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@cris.badillo1408@gmail.com")](cris.badillo1408@gmail.com)
+</p>
 <br />
-
 ---
 
 ### Languages and Tools 🛠 
@@ -47,17 +45,6 @@
 </div
 
 <br/>
-
----
-
-### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
-
----
-
-[instagram]: https://www.instagram.com/bilgehangecici](https://www.instagram.com/cris.fbh/
-[linkedin]: https://www.linkedin.com/in/christian-badillo/
-[Spotify]: https://open.spotify.com/user/314zxdabatihgep5f3o4srianltq
-
 
 ----
 Credit: [Bgstatic](https://github.com/Bgstatic)

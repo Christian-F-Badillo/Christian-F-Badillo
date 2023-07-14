@@ -15,9 +15,7 @@
 
 ### Contact with me 📝
 
-<p align="center">
 [![@cris.fbh](https://img.icons8.com/fluency/48/000000/instagram-new.png "@cris.bfh")](https://www.instagram.com/cris.fbh/) [![@christian-badillo](https://img.icons8.com/fluency/48/000000/linkedin.png "@christian-badillo")](https://www.linkedin.com/in/christian-badillo/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@Christi91084601")](https://twitter.com/Christi91084601) [![@525522048610](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@525522048610")](tel:525522048610) [![@cris.badillo1408@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@cris.badillo1408@gmail.com")](cris.badillo1408@gmail.com)
-</p>
 <br />
 ---
 

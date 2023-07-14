@@ -41,13 +41,12 @@
 
   <h2 align="center"> Github Statistics 📈 </h2>
   
-  <div align="center"> 
-     <a href="">
-      [![Anurhttps://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" />
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-F-Badillo/Christian-F-Badillo&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Christian-F-Badillo&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Christian-F-Badillo/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Christian-F-Badillo&repo=convoychat" />
+</a>
 
 <br/>
 
